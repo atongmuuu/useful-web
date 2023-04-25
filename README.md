@@ -7,3 +7,4 @@
 4. 魔法上网软件下载：
     - [window客户端](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zip)
     - [安卓手机端](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk)
+5. 系统代理模式、PAC、代理规则的介绍：[SSR“系统代理模式”“PAC”“代理规则”，是什么意思？有什么区别？](https://baiyunju.cc/8526)
